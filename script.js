@@ -2386,7 +2386,7 @@ envelope.addEventListener("click", clickHandler);
 const letterEl = document.getElementsByClassName("paper")[0];
 const write = document.createElement("div");
 write.classList.add("write");
-const speed = 80
+const speed = 55
 let sentenceID = 0
 
 const sentences = [
@@ -2453,7 +2453,7 @@ setTimeout(() => {
   envelope.style.visibility = "visible";
 
 
-}, 13000)
+}, 7500)
 
 document.addEventListener('contextmenu', function(e) {
   if (e.ctrlKey) {
