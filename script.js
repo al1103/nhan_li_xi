@@ -2394,7 +2394,7 @@ const sentences = [
     sentence: "Dear ai đó mà tôi gửi",
   },
   {
-    sentence: "Chúc mừng năm mới! Mong rằng năm nay sẽ đưa đến cho cậu những khoảnh khắc đáng nhớ, những niềm vui bất ngờ và nhiều hạnh phúc bên những người thân yêu. hihi",
+    sentence: "Năm cũ đã qua đi, chúc cậu sẽ sớm buông bỏ được những nỗi buồn, những tâm sự trong lòng mình và bắt đầu một năm mới với nhiều điều thật mới mẻ, thật bình yên và thật vui tươi nhé. Bạn nhỏ chúc cậu tất cả.",
   },
   {
     sentence: "Thân gửi",
