@@ -2386,8 +2386,8 @@ envelope.addEventListener("click", clickHandler);
 const letterEl = document.getElementsByClassName("paper")[0];
 const write = document.createElement("div");
 write.classList.add("write");
-const speed = 55
-let sentenceID = 0
+const speed = 55;
+let sentenceID = 0;
 
 const sentences = [
   {
