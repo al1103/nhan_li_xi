@@ -2453,7 +2453,7 @@ setTimeout(() => {
   envelope.style.visibility = "visible";
 
 
-}, 7500)
+}, 5000)
 
 document.addEventListener('contextmenu', function(e) {
   if (e.ctrlKey) {
